@@ -1,0 +1,16 @@
+com/firstclub/membership/integration/SubscriptionLifecycleIT.class
+com/firstclub/membership/controller/PlanControllerTest.class
+com/firstclub/membership/service/BenefitServiceTest.class
+com/firstclub/membership/integration/TierEvaluationIT.class
+com/firstclub/membership/strategy/benefit/BenefitStrategyTest.class
+com/firstclub/membership/strategy/eligibility/RuleEvaluatorTest.class
+com/firstclub/membership/integration/ConcurrencyIT.class
+com/firstclub/membership/integration/DockerAvailableCondition.class
+com/firstclub/membership/controller/SubscriptionControllerTest.class
+com/firstclub/membership/controller/BenefitControllerTest.class
+com/firstclub/membership/controller/TierControllerTest.class
+com/firstclub/membership/service/TierEvaluationServiceTest.class
+com/firstclub/membership/controller/TierEvaluationControllerTest.class
+com/firstclub/membership/service/SubscriptionServiceTest.class
+com/firstclub/membership/integration/BaseIntegrationTest.class
+com/firstclub/membership/integration/BenefitRetrievalIT.class
